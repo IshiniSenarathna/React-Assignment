@@ -1,6 +1,18 @@
+import ListEmployeeComponent from "./components/ListEmployeeComponent";
+
+function App() {
+  return (
+    <div>
+      <ListEmployeeComponent />
+    </div>
+  );
+}
+
+export default App;
 
 
 /* pdf3*/
+/*
 import Hi from "./components/Hi";
 
 function App() {
@@ -15,7 +27,7 @@ function App() {
 }
 
 export default App;
-
+*/
 /* part2*/
 /*
 import "./App.css";
