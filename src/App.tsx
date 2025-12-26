@@ -1,4 +1,20 @@
-import ListEmployeeComponent from "./components/ListEmployeeComponent";
+import React from 'react'; 
+import Header from './components/Header'; 
+import ListEmployeeComponent from './components/ListEmployeeComponent'; 
+import Footer from './components/Footer';  
+
+const App: React.FC = () => { 
+return ( 
+<div> 
+<Header /> 
+<ListEmployeeComponent /> 
+<Footer />
+</div> 
+); 
+}; 
+export default App; 
+/*part4*/ 
+/*import ListEmployeeComponent from "./components/ListEmployeeComponent";
 
 function App() {
   return (
@@ -8,7 +24,7 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
 
 
 /* pdf3*/
