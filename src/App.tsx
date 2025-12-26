@@ -1,3 +1,22 @@
+
+
+/*import Hi from "./components/Hi";
+
+function App() {
+  return (
+    <div className="container mt-3">
+      <Hi>
+        <h3>Welcome EC21033 - Ishini Senarathna</h3>
+        <p>This is the Part 3 reusable component example.</p>
+      </Hi>
+    </div>
+  );
+}
+
+export default App;*/
+
+/* part2*/
+
 import "./App.css";
 import ListGroup from "./components/ListGroup";
 
@@ -25,8 +44,8 @@ function App() {
 
 export default App;
 
-/* pdf1
-import "./App.css";
+/* pdf1*/
+/*import "./App.css";
 import HelloWorld from "./HelloWorld";
 
 function App() {
