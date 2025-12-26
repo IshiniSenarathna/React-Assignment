@@ -1,6 +1,7 @@
 
 
-/*import Hi from "./components/Hi";
+/* pdf3*/
+import Hi from "./components/Hi";
 
 function App() {
   return (
@@ -13,10 +14,10 @@ function App() {
   );
 }
 
-export default App;*/
+export default App;
 
 /* part2*/
-
+/*
 import "./App.css";
 import ListGroup from "./components/ListGroup";
 
@@ -42,7 +43,7 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
 
 /* pdf1*/
 /*import "./App.css";
